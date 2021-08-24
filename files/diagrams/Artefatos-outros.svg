@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="997" height="452px" viewBox="14, 14, 997, 452" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" version="1.1">
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 30, 30)" id="gfx-38caea09-0291-452e-a771-6ca019c5583e" display="block" class="djs-element djs-shape" data-element-id="38caea09-0291-452e-a771-6ca019c5583e">
+      <g class="djs-visual">
+        <g>
+          <rect x="0" y="0" width="965" height="350" opacity="0" fill-opacity="0" style="fill:transparent;" />
+          <path d="M965 0 L0 0 L0 350 L965 350 z M50 0 L50 350" stroke-width="1px" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
+        </g>
+      </g>
+      <svg width="50" height="350" class="djs-svg-text">
+        <text transform="matrix(-1.83697E-16, -1, 1, -1.83697E-16, 0, 350)" font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="bold" lineHeight="1.2" textDirection="270" textAlign="center" class="djs-label" style="fill:black;">
+          <tspan x="130.2851" y="28.25">Artefatos - outros</tspan>
+        </text>
+      </svg>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 121, 135)" id="gfx-1105d306-774e-4bb6-9c80-9a3028b8c147" display="block" class="djs-element djs-shape" data-element-id="1105d306-774e-4bb6-9c80-9a3028b8c147">
+      <g class="djs-visual">
+        <g>
+          <rect x="0" y="0" width="90" height="60" rx="8" stroke-width="2px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
+          <g />
+        </g>
+      </g>
+      <svg width="90" height="56" class="djs-svg-text">
+        <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+          <tspan x="8.628616" y="13.75">Documento de </tspan>
+          <tspan x="14.21346" y="26.75">Oficialização </tspan>
+          <tspan x="13.6534" y="39.75">da Demanda </tspan>
+          <tspan x="30.34566" y="52.75">(DOD)</tspan>
+        </text>
+      </svg>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 238, 135)" id="gfx-76d6702d-282b-4188-8a88-efc9ce153112" display="block" class="djs-element djs-shape" data-element-id="76d6702d-282b-4188-8a88-efc9ce153112">
+      <g class="djs-visual">
+        <g>
+          <rect x="0" y="0" width="90" height="60" rx="8" stroke-width="2px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
+          <g />
+        </g>
+      </g>
+      <svg width="90" height="56" class="djs-svg-text">
+        <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+          <tspan x="17.94186" y="20.25">Planilha de </tspan>
+          <tspan x="7.565582" y="33.25">Mensuração de </tspan>
+          <tspan x="28.09514" y="46.25">Projeto</tspan>
+        </text>
+      </svg>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 354, 135)" id="gfx-6bcd12e3-5c5e-4f51-bed0-de4359d0588c" display="block" class="djs-element djs-shape" data-element-id="6bcd12e3-5c5e-4f51-bed0-de4359d0588c">
+      <g class="djs-visual">
+        <g>
+          <rect x="0" y="0" width="90" height="60" rx="8" stroke-width="2px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
+          <g />
+        </g>
+      </g>
+      <svg width="90" height="56" class="djs-svg-text">
+        <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+          <tspan x="19.45345" y="20.25">Análise de </tspan>
+          <tspan x="9.854996" y="33.25">Viabilidade do </tspan>
+          <tspan x="14.10196" y="46.25">Projeto (AVP)</tspan>
+        </text>
+      </svg>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 466, 135)" id="gfx-629e2665-b4ca-4a9d-ace9-3bf8aeb4598b" display="block" class="djs-element djs-shape" data-element-id="629e2665-b4ca-4a9d-ace9-3bf8aeb4598b">
+      <g class="djs-visual">
+        <g>
+          <rect x="0" y="0" width="90" height="60" rx="8" stroke-width="2px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
+          <g />
+        </g>
+      </g>
+      <svg width="90" height="56" class="djs-svg-text">
+        <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+          <tspan x="14.47791" y="20.25">Artefatos do </tspan>
+          <tspan x="5.719536" y="33.25">Planejamento da</tspan>
+          <tspan x="16.48212" y="46.25">Contratação</tspan>
+        </text>
+      </svg>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 580, 135)" id="gfx-5b812df2-89b9-4087-b8da-8530fb63a405" display="block" class="djs-element djs-shape" data-element-id="5b812df2-89b9-4087-b8da-8530fb63a405">
+      <g class="djs-visual">
+        <g>
+          <rect x="0" y="0" width="90" height="60" rx="8" stroke-width="2px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
+          <g />
+        </g>
+      </g>
+      <svg width="90" height="56" class="djs-svg-text">
+        <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+          <tspan x="10.82728" y="20.25">Formulário de </tspan>
+          <tspan x="11.17732" y="33.25">Solicitação de </tspan>
+          <tspan x="6.144745" y="46.25">Mudanças (FSM)</tspan>
+        </text>
+      </svg>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 696, 135)" id="gfx-f0ae7d9c-9f1d-4aab-830a-6dac25d84592" display="block" class="djs-element djs-shape" data-element-id="f0ae7d9c-9f1d-4aab-830a-6dac25d84592">
+      <g class="djs-visual">
+        <g>
+          <rect x="0" y="0" width="99" height="60" rx="8" stroke-width="2px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
+          <g />
+        </g>
+      </g>
+      <svg width="99" height="56" class="djs-svg-text">
+        <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+          <tspan x="29.91162" y="13.75">Base de </tspan>
+          <tspan x="6.496315" y="26.75">Conhecimento de </tspan>
+          <tspan x="6.996727" y="39.75">Lições Aprendidas</tspan>
+          <tspan x="33.88374" y="52.75">(BCLA)</tspan>
+        </text>
+      </svg>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="554" height="349px" viewBox="14, 14, 554, 349" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" version="1.1">
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 30, 30)" id="gfx-e758c7de-96b1-4274-a342-1025604109d9" display="block" class="djs-element djs-shape" data-element-id="e758c7de-96b1-4274-a342-1025604109d9">
+      <g class="djs-visual">
+        <g>
+          <rect x="0" y="0" width="522" height="247" opacity="0" fill-opacity="0" style="fill:transparent;" />
+          <path d="M522 0 L0 0 L0 247 L522 247 z M50 0 L50 247" stroke-width="1px" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
+        </g>
+      </g>
+      <svg width="50" height="247" class="djs-svg-text">
+        <text transform="matrix(-1.83697E-16, -1, 1, -1.83697E-16, 0, 247)" font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="bold" lineHeight="1.2" textDirection="270" textAlign="center" class="djs-label" style="fill:black;">
+          <tspan x="76.63831" y="28.25">Tipos de Processos</tspan>
+        </text>
+      </svg>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 115, 129)" id="gfx-574aee37-2e54-47fc-8189-a0aac739cb4a" display="block" class="djs-element djs-shape" data-element-id="574aee37-2e54-47fc-8189-a0aac739cb4a">
+      <g class="djs-visual">
+        <g>
+          <rect x="0" y="0" width="90" height="60" rx="8" stroke-width="2px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
+          <g />
+        </g>
+      </g>
+      <svg width="90" height="56" class="djs-svg-text">
+        <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+          <tspan x="24.38748" y="26.75">Projetos </tspan>
+          <tspan x="21.99695" y="39.75">Preditivos</tspan>
+        </text>
+      </svg>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 268, 129)" id="gfx-a700e9f7-d778-4db2-aea3-547ffa33b441" display="block" class="djs-element djs-shape" data-element-id="a700e9f7-d778-4db2-aea3-547ffa33b441">
+      <g class="djs-visual">
+        <g>
+          <rect x="0" y="0" width="90" height="60" rx="8" stroke-width="2px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
+          <g />
+        </g>
+      </g>
+      <svg width="90" height="56" class="djs-svg-text">
+        <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+          <tspan x="24.38748" y="26.75">Projetos </tspan>
+          <tspan x="17.13032" y="39.75">Adaptativos</tspan>
+        </text>
+      </svg>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 419, 129)" id="gfx-9699fa18-b7f5-4b52-abdb-a3f18cabecd9" display="block" class="djs-element djs-shape" data-element-id="9699fa18-b7f5-4b52-abdb-a3f18cabecd9">
+      <g class="djs-visual">
+        <g>
+          <rect x="0" y="0" width="90" height="60" rx="8" stroke-width="2px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
+          <g />
+        </g>
+      </g>
+      <svg width="90" height="56" class="djs-svg-text">
+        <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+          <tspan x="24.38748" y="26.75">Projetos </tspan>
+          <tspan x="23.51631" y="39.75">Extremos</tspan>
+        </text>
+      </svg>
+    </g>
+  </g>
+</svg>

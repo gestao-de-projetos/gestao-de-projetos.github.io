@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="1381" height="535px" viewBox="14, 14, 1381, 535" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" version="1.1">
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 30, 30)" id="gfx-64287910-d5a9-4ca6-9c38-0e3a9e1f804e" display="block" class="djs-element djs-shape" data-element-id="64287910-d5a9-4ca6-9c38-0e3a9e1f804e">
+      <g class="djs-visual">
+        <g>
+          <rect x="0" y="0" width="1349" height="433" opacity="0" fill-opacity="0" style="fill:transparent;" />
+          <path d="M1349 0 L0 0 L0 433 L1349 433 z M50 0 L50 433" stroke-width="1px" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
+        </g>
+      </g>
+      <svg width="50" height="433" class="djs-svg-text">
+        <text transform="matrix(-1.83697E-16, -1, 1, -1.83697E-16, 0, 433)" font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="bold" lineHeight="1.2" textDirection="270" textAlign="center" class="djs-label" style="fill:black;">
+          <tspan x="80.26041" y="28.25">Áreas de conhecimento em gerenciamento de projetos</tspan>
+        </text>
+      </svg>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 112, 183)" id="gfx-9be0b27f-4f31-41ec-81b7-974d1fa8b82f" display="block" class="djs-element djs-shape" data-element-id="9be0b27f-4f31-41ec-81b7-974d1fa8b82f">
+      <g class="djs-visual">
+        <g>
+          <rect x="0" y="0" width="90" height="60" rx="5" stroke-width="2.4px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
+          <g>
+            <g transform="translate(37, 44)">
+              <rect x="0" y="0" width="15" height="15" stroke-width="2px" style="fill:#ECEFFF;stroke:#03689A;" />
+              <path d="M7.5 3 L7.5 12 M3 7.5 L12 7.5" stroke-width="3px" style="fill:#ECEFFF;stroke:#03689A;" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 112, 251)" id="gfx-5fc19b1c-f5e7-4039-9386-2ccbcbc22380" display="block" class="djs-element djs-shape" data-element-id="5fc19b1c-f5e7-4039-9386-2ccbcbc22380">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="101" height="60" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
+        <svg width="101" height="55" class="djs-svg-text">
+          <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+            <tspan x="7.823013" y="14.75">1. Gerenciamento </tspan>
+            <tspan x="9.261978" y="27.75">da integração do </tspan>
+            <tspan x="33.44735" y="40.75">projeto</tspan>
+          </text>
+        </svg>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 238, 183)" id="gfx-67025231-3878-4412-8d57-5cc3f6e111d5" display="block" class="djs-element djs-shape" data-element-id="67025231-3878-4412-8d57-5cc3f6e111d5">
+      <g class="djs-visual">
+        <g>
+          <rect x="0" y="0" width="90" height="60" rx="5" stroke-width="2.4px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
+          <g>
+            <g transform="translate(37, 44)">
+              <rect x="0" y="0" width="15" height="15" stroke-width="2px" style="fill:#ECEFFF;stroke:#03689A;" />
+              <path d="M7.5 3 L7.5 12 M3 7.5 L12 7.5" stroke-width="3px" style="fill:#ECEFFF;stroke:#03689A;" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 238, 251)" id="gfx-9659c53c-38d8-479c-9ba8-ad71395310fe" display="block" class="djs-element djs-shape" data-element-id="9659c53c-38d8-479c-9ba8-ad71395310fe">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="98" height="55" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
+        <svg width="98" height="50" class="djs-svg-text">
+          <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+            <tspan x="6.323013" y="14.75">2. Gerenciamento </tspan>
+            <tspan x="15.66734" y="27.75">de escopo do </tspan>
+            <tspan x="31.94735" y="40.75">projeto</tspan>
+          </text>
+        </svg>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 362, 183)" id="gfx-1f047572-3972-45cb-a713-b831cbd40fb8" display="block" class="djs-element djs-shape" data-element-id="1f047572-3972-45cb-a713-b831cbd40fb8">
+      <g class="djs-visual">
+        <g>
+          <rect x="0" y="0" width="90" height="60" rx="5" stroke-width="2.4px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
+          <g>
+            <g transform="translate(37, 44)">
+              <rect x="0" y="0" width="15" height="15" stroke-width="2px" style="fill:#ECEFFF;stroke:#03689A;" />
+              <path d="M7.5 3 L7.5 12 M3 7.5 L12 7.5" stroke-width="3px" style="fill:#ECEFFF;stroke:#03689A;" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 362, 251)" id="gfx-770f3bc2-e522-4af9-b5f3-b844da67d3f2" display="block" class="djs-element djs-shape" data-element-id="770f3bc2-e522-4af9-b5f3-b844da67d3f2">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="98" height="52" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
+        <svg width="98" height="47" class="djs-svg-text">
+          <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+            <tspan x="7.777557" y="14.75">3. Gerenciamento</tspan>
+            <tspan x="11.37629" y="27.75">do cronograma </tspan>
+            <tspan x="24.25459" y="40.75">do projeto</tspan>
+          </text>
+        </svg>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 478, 191)" id="gfx-8f20813e-1664-4b63-8f5a-4f53dfed86b1" display="block" class="djs-element djs-shape" data-element-id="8f20813e-1664-4b63-8f5a-4f53dfed86b1">
+      <g class="djs-visual">
+        <g>
+          <rect x="0" y="0" width="90" height="60" rx="5" stroke-width="2.4px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
+          <g>
+            <g transform="translate(37, 44)">
+              <rect x="0" y="0" width="15" height="15" stroke-width="2px" style="fill:#ECEFFF;stroke:#03689A;" />
+              <path d="M7.5 3 L7.5 12 M3 7.5 L12 7.5" stroke-width="3px" style="fill:#ECEFFF;stroke:#03689A;" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 478, 259)" id="gfx-a921ffe3-f32c-4b2d-a8e8-71a8670fa52c" display="block" class="djs-element djs-shape" data-element-id="a921ffe3-f32c-4b2d-a8e8-71a8670fa52c">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="99" height="55" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
+        <svg width="99" height="50" class="djs-svg-text">
+          <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+            <tspan x="6.823013" y="14.75">4. Gerenciamento </tspan>
+            <tspan x="15.53212" y="27.75">dos custos do </tspan>
+            <tspan x="32.44735" y="40.75">projeto</tspan>
+          </text>
+        </svg>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 607, 191)" id="gfx-b5dbd946-d403-4161-9776-bde1abb81a26" display="block" class="djs-element djs-shape" data-element-id="b5dbd946-d403-4161-9776-bde1abb81a26">
+      <g class="djs-visual">
+        <g>
+          <rect x="0" y="0" width="90" height="60" rx="5" stroke-width="2.4px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
+          <g>
+            <g transform="translate(37, 44)">
+              <rect x="0" y="0" width="15" height="15" stroke-width="2px" style="fill:#ECEFFF;stroke:#03689A;" />
+              <path d="M7.5 3 L7.5 12 M3 7.5 L12 7.5" stroke-width="3px" style="fill:#ECEFFF;stroke:#03689A;" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 607, 259)" id="gfx-d2b72346-0f3c-4dc1-91bb-403b3c49bc2f" display="block" class="djs-element djs-shape" data-element-id="d2b72346-0f3c-4dc1-91bb-403b3c49bc2f">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="98" height="58" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
+        <svg width="98" height="53" class="djs-svg-text">
+          <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+            <tspan x="6.323013" y="14.75">5. Gerenciamento </tspan>
+            <tspan x="16.70445" y="27.75">dos riscos do </tspan>
+            <tspan x="31.94735" y="40.75">projeto</tspan>
+          </text>
+        </svg>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 739, 191)" id="gfx-6a337e47-9de5-4aa8-8ea0-beb7197f393e" display="block" class="djs-element djs-shape" data-element-id="6a337e47-9de5-4aa8-8ea0-beb7197f393e">
+      <g class="djs-visual">
+        <g>
+          <rect x="0" y="0" width="90" height="60" rx="5" stroke-width="2.4px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
+          <g>
+            <g transform="translate(37, 44)">
+              <rect x="0" y="0" width="15" height="15" stroke-width="2px" style="fill:#ECEFFF;stroke:#03689A;" />
+              <path d="M7.5 3 L7.5 12 M3 7.5 L12 7.5" stroke-width="3px" style="fill:#ECEFFF;stroke:#03689A;" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 739, 259)" id="gfx-7faff6ae-4a80-4d40-bf88-97d57410f2a0" display="block" class="djs-element djs-shape" data-element-id="7faff6ae-4a80-4d40-bf88-97d57410f2a0">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="103" height="71" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
+        <svg width="103" height="66" class="djs-svg-text">
+          <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+            <tspan x="8.823013" y="14.75">6. Gerenciamento </tspan>
+            <tspan x="26.01048" y="27.75">das partes </tspan>
+            <tspan x="13.57297" y="40.75">interessadas do </tspan>
+            <tspan x="34.44735" y="53.75">projeto</tspan>
+          </text>
+        </svg>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 869, 191)" id="gfx-62e81950-dc0b-4070-8c31-927944b1a6b1" display="block" class="djs-element djs-shape" data-element-id="62e81950-dc0b-4070-8c31-927944b1a6b1">
+      <g class="djs-visual">
+        <g>
+          <rect x="0" y="0" width="90" height="60" rx="5" stroke-width="2.4px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
+          <g>
+            <g transform="translate(37, 44)">
+              <rect x="0" y="0" width="15" height="15" stroke-width="2px" style="fill:#ECEFFF;stroke:#03689A;" />
+              <path d="M7.5 3 L7.5 12 M3 7.5 L12 7.5" stroke-width="3px" style="fill:#ECEFFF;stroke:#03689A;" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 869, 259)" id="gfx-abe6ccdc-2e87-422f-9b04-68798531fb46" display="block" class="djs-element djs-shape" data-element-id="abe6ccdc-2e87-422f-9b04-68798531fb46">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="100" height="64" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
+        <svg width="100" height="59" class="djs-svg-text">
+          <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+            <tspan x="7.323013" y="14.75">7. Gerenciamento </tspan>
+            <tspan x="5.826981" y="27.75">das comunicações </tspan>
+            <tspan x="25.25459" y="40.75">do projeto</tspan>
+          </text>
+        </svg>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 999, 201)" id="gfx-99012436-4d49-4f37-9888-f3e11e029cfc" display="block" class="djs-element djs-shape" data-element-id="99012436-4d49-4f37-9888-f3e11e029cfc">
+      <g class="djs-visual">
+        <g>
+          <rect x="0" y="0" width="90" height="60" rx="5" stroke-width="2.4px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
+          <g>
+            <g transform="translate(37, 44)">
+              <rect x="0" y="0" width="15" height="15" stroke-width="2px" style="fill:#ECEFFF;stroke:#03689A;" />
+              <path d="M7.5 3 L7.5 12 M3 7.5 L12 7.5" stroke-width="3px" style="fill:#ECEFFF;stroke:#03689A;" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 999, 269)" id="gfx-daff4752-a38d-4ad0-9f94-a429031571f8" display="block" class="djs-element djs-shape" data-element-id="daff4752-a38d-4ad0-9f94-a429031571f8">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="100" height="52" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
+        <svg width="100" height="47" class="djs-svg-text">
+          <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+            <tspan x="7.323013" y="14.75">8, Gerenciamento </tspan>
+            <tspan x="10.43172" y="27.75">da qualidade do </tspan>
+            <tspan x="32.94735" y="40.75">projeto</tspan>
+          </text>
+        </svg>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 1114, 201)" id="gfx-e8c045a8-9bdf-45b2-a982-2f943cc65929" display="block" class="djs-element djs-shape" data-element-id="e8c045a8-9bdf-45b2-a982-2f943cc65929">
+      <g class="djs-visual">
+        <g>
+          <rect x="0" y="0" width="90" height="60" rx="5" stroke-width="2.4px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
+          <g>
+            <g transform="translate(37, 44)">
+              <rect x="0" y="0" width="15" height="15" stroke-width="2px" style="fill:#ECEFFF;stroke:#03689A;" />
+              <path d="M7.5 3 L7.5 12 M3 7.5 L12 7.5" stroke-width="3px" style="fill:#ECEFFF;stroke:#03689A;" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 1114, 269)" id="gfx-2c54169e-10b5-4dc8-abbd-31294b5c36dd" display="block" class="djs-element djs-shape" data-element-id="2c54169e-10b5-4dc8-abbd-31294b5c36dd">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="99" height="48" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
+        <svg width="99" height="43" class="djs-svg-text">
+          <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+            <tspan x="6.823013" y="14.75">9. Gerenciamento </tspan>
+            <tspan x="10.86253" y="27.75">dos recursos do </tspan>
+            <tspan x="32.44735" y="40.75">projeto</tspan>
+          </text>
+        </svg>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 1235, 201)" id="gfx-3c450442-48ef-4919-92b3-e53a4bddc9e9" display="block" class="djs-element djs-shape" data-element-id="3c450442-48ef-4919-92b3-e53a4bddc9e9">
+      <g class="djs-visual">
+        <g>
+          <rect x="0" y="0" width="90" height="60" rx="5" stroke-width="2.4px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
+          <g>
+            <g transform="translate(37, 44)">
+              <rect x="0" y="0" width="15" height="15" stroke-width="2px" style="fill:#ECEFFF;stroke:#03689A;" />
+              <path d="M7.5 3 L7.5 12 M3 7.5 L12 7.5" stroke-width="3px" style="fill:#ECEFFF;stroke:#03689A;" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 1235, 269)" id="gfx-db0b1135-1143-4692-8535-81d3ce565234" display="block" class="djs-element djs-shape" data-element-id="db0b1135-1143-4692-8535-81d3ce565234">
+      <g class="djs-visual">
+        <rect x="0" y="0" width="100" height="58" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
+        <svg width="100" height="53" class="djs-svg-text">
+          <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+            <tspan x="5.915138" y="14.75">10. Gerenciamento</tspan>
+            <tspan x="7.063728" y="27.75">das aquisições do </tspan>
+            <tspan x="32.94735" y="40.75">projeto</tspan>
+          </text>
+        </svg>
+      </g>
+    </g>
+  </g>
+</svg>
